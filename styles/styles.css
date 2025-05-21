@@ -68,7 +68,7 @@ ul {
   padding: 32px;
 }
 
-.description p {
+.description p, .text p {
   font-size: 18px;
   color: #E5E7EB;
 }
@@ -80,33 +80,50 @@ ul {
 
 /* RANDOM INFO */
 .info-block {
-  flex: none;
+  flex: 1;
   background-color: white;
   color: black;
   text-align: center;
+  padding: 32px;
 }
 
 .container {
   display: flex;
   justify-content: center;
   gap: 50px;
+  flex-wrap: wrap;
 }
 
 .card {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
 }
 
 .card-image {
-  border-color: #3882F6;
+  border: 3px solid #3882F6;
   border-radius: 5px;
 }
 
 /* QUOTE */
 .quote-block {
-  flex: none;
+  flex: 1;
   background-color: #E5E7EB;
   color: #1F2937;
+  text-align: center;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.quote {
+  font-style: italic;
+}
+
+.quotee {
+  align-self: flex-end;
+  font-weight: 800px;
 }
 
 /* SIGN-UP */
@@ -123,10 +140,18 @@ ul {
   background-color: #3882F6;
   width: 800px;
   height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 200px;
+  border-radius: 10px;
+  font-weight: 800px;
 }
 
 .sign-up-button {
-  background-color: #3882F6;
+  border-color: white;
+  border: solid;
+  border-width: 1px;
 }
 
 /* FOOTER */

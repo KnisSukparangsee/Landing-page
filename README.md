@@ -15,3 +15,6 @@ Photo by Pixabay from Pexels: https://www.pexels.com/photo/solar-panels-on-snow-
 
 Mars rover image
 Photo by Ramaz Bluashvili: https://www.pexels.com/photo/mars-rover-prototype-at-nasa-s-test-facility-32083788/
+
+Hubble telescope image
+Photo by Pixabay: https://www.pexels.com/photo/gray-and-black-galaxy-wallpaper-2150/
