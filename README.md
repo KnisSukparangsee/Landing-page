@@ -1,4 +1,6 @@
 # Landing-page
+[Link to the landing page.](https://knissukparangsee.github.io/Landing-page)
+
 This is a landing-page for the flex project on Odin. I aligned elements using flexbox and allocated space proportionally using flex. A full screenshot of the landing-page is provided below.
 
 ![space-landing-page](/images/landing-page.png)
