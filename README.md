@@ -18,3 +18,6 @@ Photo by Ramaz Bluashvili: https://www.pexels.com/photo/mars-rover-prototype-at-
 
 Hubble telescope image
 Photo by Pixabay: https://www.pexels.com/photo/gray-and-black-galaxy-wallpaper-2150/
+
+Blue Dot
+By NASA/JPL-Caltech - https://photojournal.jpl.nasa.gov/jpeg/PIA23645.jpg, Public Domain, https://commons.wikimedia.org/w/index.php?curid=86976246

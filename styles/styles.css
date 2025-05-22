@@ -121,14 +121,21 @@ ul {
 }
 
 .quote {
-  padding: 0px 10%;
+  padding: 0px 12%;
   font-style: italic;
   line-height: 1.5;
 }
 
 .quotee {
+  margin-right: 15%;
   align-self: flex-end;
   font-weight: 800px;
+}
+
+.quote-img {
+  display: block;
+  width: 30%;
+  margin: 2% auto;
 }
 
 /* SIGN-UP */
