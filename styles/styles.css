@@ -62,10 +62,10 @@ ul {
 .main-block {
   display: flex;
   flex: none;
-  justify-content: center;
-  gap: 16px;
+  justify-content: space-between;
+  gap: 48px;
   align-items: center;
-  padding: 32px;
+  padding: 32px 15%;
 }
 
 .description p, .text p {
@@ -74,8 +74,9 @@ ul {
 }
 
 .placeholder-img {
-  width: 400px;
+  width: 30%;
   height: auto;
+  object-position: cover;
 }
 
 /* RANDOM INFO */
