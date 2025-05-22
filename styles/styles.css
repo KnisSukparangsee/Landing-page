@@ -62,7 +62,6 @@ ul {
 .main-block {
   display: flex;
   flex: none;
-  justify-content: space-between;
   gap: 48px;
   align-items: center;
   padding: 32px 15%;
@@ -74,7 +73,7 @@ ul {
 }
 
 .placeholder-img {
-  width: 30%;
+  width: 40%;
   height: auto;
   object-position: cover;
 }
@@ -159,12 +158,19 @@ ul {
   gap: 200px;
   border-radius: 10px;
   font-weight: 800px;
+  margin: 0px 10%;
+  padding: 0px 5%;
 }
 
 .sign-up-button {
   border-color: white;
   border: solid;
   border-width: 1px;
+}
+
+.text p {
+  margin: 0px;
+  font-size: 12px;
 }
 
 /* FOOTER */
