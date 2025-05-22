@@ -1,5 +1,7 @@
 # Landing-page
-This is a landing-page for the flex project on Odin. I aligned elements using flexbox and allocated space proportionally using flex. 
+This is a landing-page for the flex project on Odin. I aligned elements using flexbox and allocated space proportionally using flex. A full screenshot of the landing-page is provided below.
+
+![space-landing-page](/images/landing-page.png)
 
 Attribution
 
